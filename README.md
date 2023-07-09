@@ -1,4 +1,4 @@
-# Store-Sales-Analysis-Dashboard-using-Tableau
+# Sales and Profit Analysis for Hardware Retailer-using-Tableau
 
 
 "Sales and Profit Analysis for Hardware Retailer"  is crucial Data Analysis project which provide Tableau Data Analysis Dashboard for a Hardware Retailer firm, to get collective Insights of Sales, Revenue and Profit trend through its business years. 
